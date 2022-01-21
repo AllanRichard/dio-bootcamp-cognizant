@@ -1,5 +1,5 @@
 # Bootcamp DIO Cognizant Java
-Cursos realizandos durante o bootcamp
+Cursos realizados durante o bootcamp
 
 - > [Lógica de Programação Essencial](https://web.dio.me/course/logica-de-programacao-essencial/learning/aea1ea26-fd56-417d-8272-6e15253f4405/?back=/browse)
 - > [Aprenda o que são Estrutura de Dados e Algoritmos](https://web.dio.me/course/aprenda-o-que-sao-estrutura-de-dados-e-algoritmos/learning/a99f9576-69e9-4187-b3a7-e7ada5e5d6ad/?back=/browse)
